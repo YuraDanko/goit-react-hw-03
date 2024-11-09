@@ -1,0 +1,15 @@
+.wraper {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+input {
+  width: 300px;
+  padding: 8px;
+}
